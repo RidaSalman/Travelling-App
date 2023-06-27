@@ -69,14 +69,5 @@ class LoginActivity : AppCompatActivity() {
         }
 
 
-
-
-
-
-
-
-
-
-
     }
 }
